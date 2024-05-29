@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Item 1",
+      "description": "Stay hungrey, stay foolish."
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "description": "It's all on you"
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "description": "No commmets, hard code"
+    }
+  ]
