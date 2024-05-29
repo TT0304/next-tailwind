@@ -3,6 +3,5 @@
 export default async function getItems() {
   const res = await fetch('/data/items.json');
   const data = await res.json();
-  console.log('data', data)
   return data
 }
